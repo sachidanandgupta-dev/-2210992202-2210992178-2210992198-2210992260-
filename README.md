@@ -1,12 +1,21 @@
 Doctor Appointment Booking System
+
 Submission Details
+
 Roll Number and Name: 2210992202 - Sachidanand Gupta 
+
 Roll Number and Name: 2210992178 - Rohit Kumar Singh
+
 Roll Number and Name: 2210992198 - S. Jaspreet Singh Kada
+
 Roll Number and Name: 2210992260 - Sargunpreet Singh
+
 Project Title: Doctor Appointment Booking System
+
 Type: Copyright
+
 Team Details: 4 Members
+
 Current Status: Completed
 
 Folder Structure
