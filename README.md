@@ -1,6 +1,6 @@
 Doctor Appointment Booking System
 
-Submission Details
+Submission Details :
 
 Roll Number and Name: 2210992202 - Sachidanand Gupta 
 
@@ -18,8 +18,11 @@ Team Details: 4 Members
 
 Current Status: Completed
 
-Folder Structure
+Folder Structure :
+
 IPR_Submission_Proof/ - Root folder for the IPR submission proof.
+
 Report_and_PPT/ - Report and presentation files.
+
 Source_Code/ - Source code related to the submission.
 
